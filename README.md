@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+Dynamic Data Analyst with 3 years of experience leveraging data-driven insights to enhance business strategies and operational efficiency. Proven track record of increasing customer retention by 25% and improving decision-making efficiency by 30%. Expert in developing interactive dashboards and reports using Power BI and Tableau, with a strong foundation in machine learning and AI. Skilled at presenting data-driven recommendations to executive audiences and identifying insights and opportunities from data. Passionate about driving innovation and strategic growth, with a keen curiosity to understand "how things work”.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
