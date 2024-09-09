@@ -1,4 +1,4 @@
-# 🏄‍♂️ Forrest Knight
+# 🏄‍♂️ Prithvijeet Singh Rathaur
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
