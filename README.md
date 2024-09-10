@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/prithvijeet-rathaur/">
-  <img src="https://github.com/Prithvijeet-Singh-Rathaur/PrithviWorks/blob/main/Hi%2C%20I’m%20Prithvijeet%20Singh%20Rathaur.png" alt="Social banner for Prithvi" height="300" width="1000">
+  <img src="https://github.com/Prithvijeet-Singh-Rathaur/PrithviWorks/blob/main/Header.png" alt="Social banner for Prithvi" height="300" width="1000">
 </a>
 
 <p align="justify"> A Full-Stack Data Professional, experienced: 🛠️ <b>Data Engineer</b> | 👨🏻‍💻 Developer | 🕵🏻 Data Analyst | 🧬 Data Scientist & 🤖 AI+ML </p>
