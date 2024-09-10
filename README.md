@@ -18,5 +18,8 @@ Being a creative tech enthusiast, I love working + learning new softwares, tools
 </details>
 
 <details>  <summary><b>✨&nbsp;&nbsp;My&nbsp;Portfolio</b></summary>
-  
 
+- **Data Visualization and Dashboarding**: ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau) ![Power BI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI) ![Google Analytics](https://img.shields.io/badge/-GoogleAnalytics-000?&logo=GoogleAnalytics) ![Looker](https://img.shields.io/badge/-Looker-000?&logo=Looker) ![Alteryx](https://img.shields.io/badge/-Alteryx-000?&logo=Alteryx) 
+
+  
+https://project.novypro.com/wBfYkT
