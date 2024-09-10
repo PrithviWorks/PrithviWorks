@@ -2,6 +2,11 @@
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
+
+<p align="justify"> A Versatile Data Specialist, skilled in: 🛠️ <b>Data Engineering</b> | 👨🏻‍💻 Software Development | 🕵🏻 Data Analysis | 🧬 Data Science & 🤖 AI/ML </p>
+As a passionate tech innovator, I thrive on exploring and mastering new software, tools, technologies, and platforms: ChatGPT ML Ops
+
+
 Dynamic Data Analyst with 3 years of experience leveraging data-driven insights to enhance business strategies and operational efficiency. Proven track record of increasing customer retention by 25% and improving decision-making efficiency by 30%. Expert in developing interactive dashboards and reports using Power BI and Tableau, with a strong foundation in machine learning and AI. Skilled at presenting data-driven recommendations to executive audiences and identifying insights and opportunities from data. Passionate about driving innovation and strategic growth, with a keen curiosity to understand "how things work”.
 
    <p align="left">
