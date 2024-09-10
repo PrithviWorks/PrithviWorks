@@ -1,4 +1,6 @@
-[![Social banner for Prithvi](https://github.com/Prithvijeet-Singh-Rathaur/PrithviWorks/blob/main/Hi%2C%20I’m%20Prithvijeet%20Singh%20Rathaur.png)](https://www.linkedin.com/in/prithvijeet-rathaur/)
+<a href="https://www.linkedin.com/in/prithvijeet-rathaur/">
+  <img src="https://github.com/Prithvijeet-Singh-Rathaur/PrithviWorks/blob/main/Hi%2C%20I’m%20Prithvijeet%20Singh%20Rathaur.png" alt="Social banner for Prithvi" width="800">
+</a>
 
 <p align="justify"> A Full-Stack Data Professional, experienced: 🛠️ <b>Data Engineer</b> | 👨🏻‍💻 Developer | 🕵🏻 Data Analyst | 🧬 Data Scientist & 🤖 AI+ML </p>
 
