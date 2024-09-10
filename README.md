@@ -1,4 +1,4 @@
-[![Social banner for Prithvi](https://www.canva.com/design/DAGQUX_eFRc/G-UX79NUqPGVLPCTFCKRiQ/view?utm_content=DAGQUX_eFRc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)](https://www.linkedin.com/in/prithvijeet-rathaur/)
+[![Social banner for Prithvi](https://github.com/Prithvijeet-Singh-Rathaur/PrithviWorks/blob/main/Hi%2C%20I’m%20Prithvijeet%20Singh%20Rathaur.png)](https://www.linkedin.com/in/prithvijeet-rathaur/)
 
 <p align="justify"> A Full-Stack Data Professional, experienced: 🛠️ <b>Data Engineer</b> | 👨🏻‍💻 Developer | 🕵🏻 Data Analyst | 🧬 Data Scientist & 🤖 AI+ML </p>
 
