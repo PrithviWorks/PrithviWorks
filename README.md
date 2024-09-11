@@ -61,6 +61,6 @@ Being a creative tech enthusiast, I love working + learning new softwares, tools
 <div>
   <img src="https://github.com/Prithvijeet-Singh-Rathaur/PrithviWorks/blob/main/Telecom.gif" width="400" height="240"/></a>
   <img src="https://github.com/Prithvijeet-Singh-Rathaur/PrithviWorks/blob/main/Retail.gif" width="400" height="240"/></a>
-  <img src="https://github.com/Prithvijeet-Singh-Rathaur/PrithviWorks/blob/main/Bank1.gif" width="400" height="240"/></a>
+  <img src="https://github.com/Prithvijeet-Singh-Rathaur/PrithviWorks/blob/main/Bank.gif" width="400" height="240"/></a>
 
 </div> 
