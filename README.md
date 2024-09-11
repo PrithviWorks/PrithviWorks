@@ -98,6 +98,6 @@ Being a creative tech enthusiast, I love working + learning new softwares, tools
 <b>Handy</b> : ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)  ![DataBricks](https://img.shields.io/badge/-DataBricks-000?&logo=DataBricks) ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)  ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-000?&logo=apachespark)   ![Hadoop](https://img.shields.io/badge/-Hadoop-000?&logo=apachehadoop)   ![Hive](https://img.shields.io/badge/-Hive-000?&logo=apachehive)   ![Azure](https://img.shields.io/badge/-Azure-000?&logo=google-cloud)   ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apachekafka)  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-000?&logo=Amazon%20DynamoDB)   ![DataBricks](https://img.shields.io/badge/-JavaScript-000?&logo=javascript) ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin) ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)   
 
 
-https://x.com/prithvi33616
+
  
 
