@@ -66,9 +66,38 @@ Being a creative tech enthusiast, I love working + learning new softwares, tools
 
 </details> 
 
+<p align="left">
+      <img src="https://github.com/gilbarbara/logos/blob/main/logos/tableau-icon.svg" alt="Tableau" width="65" height="65"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="65" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="65" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="java" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="Scala" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="55" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" alt="IBM Cloud" width="55" height="55"/>   
+</p>
 
 
+👨‍💻 All of my projects are available at [Github](https://github.com/Prithvijeet-Singh-Rathaur?tab=repositories), [Power Bi](https://my.novypro.com/prithvi-rathaur)
+
+<br>
+
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://x.com/prithvi33616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhanjansd" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prithvijeet-rathaur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhanjan-das" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/prithvirathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="subhanjan33" height="30" width="40" /></a>
+</p>
 
 
+<b>Handy</b> : ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)  ![DataBricks](https://img.shields.io/badge/-DataBricks-000?&logo=DataBricks) ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)  ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-000?&logo=apachespark)   ![Hadoop](https://img.shields.io/badge/-Hadoop-000?&logo=apachehadoop)   ![Hive](https://img.shields.io/badge/-Hive-000?&logo=apachehive)   ![Azure](https://img.shields.io/badge/-Azure-000?&logo=google-cloud)   ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apachekafka)  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-000?&logo=Amazon%20DynamoDB)   ![DataBricks](https://img.shields.io/badge/-JavaScript-000?&logo=javascript) ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin) ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)   
+
+
+https://x.com/prithvi33616
  
 
