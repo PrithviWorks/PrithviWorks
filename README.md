@@ -59,6 +59,7 @@ Being a creative tech enthusiast, I love working + learning new softwares, tools
 </details> 
 
 <div>
-  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/Prithvijeet-Singh-Rathaur/PrithviWorks/blob/main/Telecom1.gif" width="400" height="240" /></a>
-  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/Prithvijeet-Singh-Rathaur/PrithviWorks/blob/main/Retail1.gif" width="400" height="240" /></a>
+  <img src="https://github.com/Prithvijeet-Singh-Rathaur/PrithviWorks/blob/main/Telecom.gif" width="400" height="240"/></a>
+  <img src="https://github.com/Prithvijeet-Singh-Rathaur/PrithviWorks/blob/main/Retail1.gif" width="400" height="240"/></a>
+
 </div> 
