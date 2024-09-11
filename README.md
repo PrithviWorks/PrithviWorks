@@ -17,7 +17,7 @@ Being a creative tech enthusiast, I love working + learning new softwares, tools
 <p align="justify">Over the last year, my proficiency with Business Intelligence tools has grown, alongside my passion for driving innovation and strategic growth. I am adept at using Tableau and Power BI in conjunction with Python and SQL, as well as cloud solutions like GCP. My strong foundation in Mathematics and Statistics enables me to work effectively with large and complex datasets. My goal in data analytics, visualization, and reporting is to provide stakeholders with actionable insights that facilitate data-driven decision-making and strategic growth.</p>
 </details>
 
-<details>  <summary><b>✨&nbsp;&nbsp;My&nbsp;Portfolio</b></summary>
+<details>  <summary><b>✨&nbsp;&nbsp;My&nbsp;Project&nbsp;Portfolio</b></summary>
 
 - **Data Analysis Projects**: ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau) ![Power BI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI)  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch) ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas) ![Excel](https://img.shields.io/badge/-Excel-000?&logo=Excel&logoColor=F90) ![NoSQL](https://img.shields.io/badge/-NoSQL-000?&logo=NoSQL) ![PostgreSQL](https://img.shields.io/badge/-Postgresql-000&?&logo=Postgresql) ![SKLearn](https://img.shields.io/badge/-SKLearn-000?&logo=SKLearn)
 
@@ -57,3 +57,8 @@ Being a creative tech enthusiast, I love working + learning new softwares, tools
 - **📝 Code Management** || Github, BitBucket, GitLab, AWS CodeCommit
 
 </details> 
+
+<div>
+  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/Prithvijeet-Singh-Rathaur/PrithviWorks/blob/main/Telecom1.gif" width="400" height="240" /></a>
+  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/Prithvijeet-Singh-Rathaur/PrithviWorks/blob/main/Retail1.gif" width="400" height="240" /></a>
+</div> 
