@@ -27,4 +27,33 @@ Being a creative tech enthusiast, I love working + learning new softwares, tools
   
   - [Banking Loan Report Analysis](https://project.novypro.com/CqC1K4) - <br> The Bank Loan Analysis project aimed to provide a comprehensive understanding of lending operations and loan performance through data-driven insights. By leveraging MS SQL Server, Power BI, and MS Office/Excel, the project focused on importing and analyzing bank loan data to support decision-making and assess the health of the loan portfolio. Key components included creating databases and writing SQL queries to extract and analyze data, followed by visualizing results using Power BI dashboards. The project featured three main dashboards: a summary of key performance indicators (KPIs) such as total loan applications and average interest rates, an overview of trends and regional disparities, and a detailed view of loan data and borrower profiles. This analysis enabled the identification of seasonality, regional lending disparities, and the impact of factors like employment history and home ownership on loans. Through this project, skills in SQL, data modeling, and visualization were enhanced, ultimately contributing to more informed lending strategies and improved loan portfolio management.<br/>
 
-  
+[⏩ &nbsp; and many more](https://github.com/Prithvijeet-Singh-Rathaur?tab=repositories) 
+
+</details> 
+
+
+<details>  <summary><b>🛠️ &nbsp;My&nbsp;Stack&nbsp;&nbsp;</b></summary>
+
+- **🛢 Databases** || Db2, Redis, Dynamo, MongoDB, Postgres, Cassandra
+
+- **🧑🏻‍💻 Programming** || Python, SQL, HiveQL, SAS, Scala, Shell/UNIX, R, C
+
+- **📶 BI Tools**|| Tableau, Power BI, Looker, Cognos, Alteryx, SAS BI, GA4
+
+- **🔢 Big Data** || Spark, Hadoop, Hive, Sqoop, HBase, Kafka, Impala, Hue
+
+- **💭 Azure Stack** || ADLS, Databricks, Visual Studio, Synapse, ADF, AKS
+
+- **💭 AWS Stack** || Glue, EC2, S3, Athena, Redshift, Lambda, IAM, RDS
+
+- **💭 GCP Stack** || BigQuery, Looker, Pub/Sub, Cloud Storage, Dataproc
+
+- **🔗 DevOps** || Docker, Kubernetes, Jenkins, Git, Azure, YAML, JSON
+
+- **🤖 AI/ML** || Sklearn, Pytorch, TF, Keras, AzureML, SageMaker, AutoML
+
+- **🎯 SDLC** || SAFe® Agile, Kanban, Jira, Confluence, Scrum, Waterfall
+
+- **📝 Code Management** || Github, BitBucket, GitLab, AWS CodeCommit
+
+</details> 
