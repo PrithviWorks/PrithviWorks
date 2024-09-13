@@ -83,7 +83,7 @@ Being a creative tech enthusiast, I love working + learning new softwares, tools
 </p>
 
 
-👨‍💻 All of my projects are available at [Github](https://github.com/Prithvijeet-Singh-Rathaur?tab=repositories), [Power Bi](https://my.novypro.com/prithvi-rathaur)
+👨‍💻 All of my projects are available at [Github](https://github.com/PrithviWorks?tab=repositories), [Power Bi](https://my.novypro.com/prithvi-rathaur)
 
 <br>
 
