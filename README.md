@@ -62,6 +62,10 @@ Being a creative tech enthusiast, I love working + learning new softwares, tools
         <a href="https://project.novypro.com/CqC1K4" target="_blank"><img src="https://github.com/Prithvijeet-Singh-Rathaur/PrithviWorks/blob/main/Bank.gif" width="400" height="240"/></a>
       </div> 
 
+- **Big Data Analytics and Cloud**: ![Azure](https://img.shields.io/badge/-Azure-000?&logo=Azure&logoColor=F90) ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![Hadoop](https://img.shields.io/badge/-Hadoop-000?&logo=Hadoop&logoColor=F90) ![GCP](https://img.shields.io/badge/-Scala-000?&logo=Scala&logoColor=F90)
+
+  - [Worldwide Sales Data Analysis and Exploration using Zeppelin, HDFS and Spark](https://github.com/PrithviWorks/PrithviWorks-Formula_1_Racing_Using_Azure_Databrick) - <br> The goal of this project is to create a data analysis system for Formula-1 race results using Azure Databricks. This involves building an ETL (Extract, Transform, Load) pipeline to collect Formula 1 racing data from ergast.com, a website focused on Formula 1 statistics, and then processing and storing it in Azure Data Lake Gen2 storage. Azure Databricks is used for data transformation and analysis, and Azure Data Factory orchestrates the entire process.
+
 [⏩ &nbsp; and many more](https://github.com/Prithvijeet-Singh-Rathaur?tab=repositories) 
 
 </details> 
